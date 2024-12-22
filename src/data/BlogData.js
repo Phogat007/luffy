@@ -3,9 +3,9 @@
 export const Blogs = [
     {
         id:1,
-        name:"How to implement Pagination Component in React from scratch",
-        tags:["react","css"],
-        date:"5 Jan, 2021",
+        name:"Namaste React Notes",
+        tags:["react","ReactJs","React-Setup","JSX"],
+        date:"22 Dec, 2024",
         imgSrc:"https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9cbovy5-k1l2QCdzlMy0fg.png",
         link:"https://medium.com/@mohitphogat/learn-what-matters-your-react-learning-companion-on-github-889b4e317bc9"
     },
