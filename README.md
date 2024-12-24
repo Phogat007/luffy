@@ -1,4 +1,3 @@
-
 # Portfolio
 
 Welcome to my portfolio! This website showcases my skills, projects, and professional journey. Built with **React.js**, it highlights clean design, smooth animations, and intuitive navigation.
@@ -48,9 +47,3 @@ Welcome to my portfolio! This website showcases my skills, projects, and profess
    ```
 
 ---
-
-## GitHub
-
-[Repository Link](https://github.com/Phogat007/luffy)
-```
-
