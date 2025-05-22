@@ -135,7 +135,7 @@ I value the businesses and brands I create for, and I enjoy bringing new ideas t
 <Description>
 <strong>Skills</strong>
 <p>
-HTML, CSS, JavaScript, React, SASS, Bootstrap, Tailwind, Normalize.css, DevOps, etc.
+HTML, CSS, JavaScript, Typescript, React, Bootstrap, Tailwind, Node.js, Python, etc.
 </p>
 </Description>
 <Description>
